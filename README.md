@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# How to fetch API
+
+OpenWeather API has been used in this project to get weather information.
+
+1. Sign-up on OpenWeather and choose plan (free plan by default).
+2. Go to API keys and generate API key.
+3. Go to Dashboard -> Current weather data docs
+4. Choose built-in API request by city name
+
+# Weather app GUI
+
+![Screenshot (374)](https://user-images.githubusercontent.com/106196897/170484290-7e08825f-e377-49bb-bee7-9acba6b3a2e4.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
